@@ -4,7 +4,9 @@
 
 <details>
 
-<summary>Index</summary>
+<summary>Table of contents</summary>
+
+## Index
 
 | S.No | Due | Title | Repository |
 | --- | --- | --- | --- |
